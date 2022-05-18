@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-install-git.sh
-install-vscode.sh
-install-docker.sh
-install-nvm.sh
+bash install-git.sh
+bash install-vscode.sh
+bash install-docker.sh
+bash install-nvm.sh
 
